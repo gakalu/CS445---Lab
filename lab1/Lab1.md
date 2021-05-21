@@ -9,7 +9,7 @@
 
 ### git status
 
-![git init](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitstatus.PNG)
+![git status](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitstatus.PNG)
 
 
 
