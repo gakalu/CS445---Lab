@@ -7,5 +7,10 @@
 ![git init](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitinit.PNG)
 
 
+### git status
+
+![git init](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitstatus.PNG)
+
+
 
 
