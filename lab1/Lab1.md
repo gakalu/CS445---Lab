@@ -4,7 +4,7 @@
 
 ### git init
 
-![git init] (https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitinit.PNG)
+![git init](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitinit.PNG)
 
 
 
