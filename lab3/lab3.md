@@ -4,11 +4,11 @@
 
 ### lab3.1
 
-![lab3.1](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitinit.PNG)
+![lab3.1](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.1.png)
 ### lab3.2
-![lab3.2](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitstatus.PNG)
+![lab3.2](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.2.png)
 ### lab3.3
-![lab3.3](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitstatus.PNG)
+![lab3.3](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.3.png)
 ### lab3.4
-![lab3.4](https://github.com/gakalu/CS445---Lab/blob/main/lab1/gitstatus.PNG)
+![lab3.4](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.4.png)
 
