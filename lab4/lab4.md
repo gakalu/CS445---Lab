@@ -4,11 +4,11 @@
 
 
 Animation
-![animation.js]()
+![animation.js](https://github.com/gakalu/CS445---Lab/blob/main/lab4/animation.js)
 ### Ascii-css
-![ascii.css]()
+![ascii.css](https://github.com/gakalu/CS445---Lab/blob/main/lab4/ascii.css)
 ### Ascii-js
-![ascii.js]()
+![ascii.js](https://github.com/gakalu/CS445---Lab/blob/main/lab4/ascii.js)
 ### Html
-![index.html]()
+![index.html](https://github.com/gakalu/CS445---Lab/blob/main/lab4/html.js)
 
