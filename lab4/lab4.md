@@ -10,5 +10,5 @@ Animation
 ### Ascii-js
 ![ascii.js](https://github.com/gakalu/CS445---Lab/blob/main/lab4/ascii.js)
 ### Html
-![index.html](https://github.com/gakalu/CS445---Lab/blob/main/lab4/html.js)
+![index.html](https://github.com/gakalu/CS445---Lab/blob/main/lab4/index.html)
 
