@@ -1,13 +1,12 @@
-# CS445 Lab 4 assignemnt 
+# CS445 Lab 3 assignemnt 
 
-## This is assignment 4
+## This is assignment 3
+lab3.1
 
-### Animation
-
-![](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.1.png)
-### Ascii.js
+![lab3.1](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.1.png)
+### lab3.2
 ![lab3.2](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.2.png)
-### Ascii.css
+### lab3.3
 ![lab3.3](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.3.png)
-### index.html
+### lab3.4
 ![lab3.4](https://github.com/gakalu/CS445---Lab/blob/main/lab3/lab3.4.png)
