@@ -4,6 +4,6 @@
 
 
 Prime number
-![prime.js](https://github.com/gakalu/CS445---Lab/blob/main/lab4/animation.js)
+![prime.js](https://github.com/gakalu/CS445---Lab/blob/main/lab5/prime.js)
 duplecation
-![duplication,js](https://github.com/gakalu/CS445---Lab/blob/main/lab4/ascii.css)
+![duplication,js](https://github.com/gakalu/CS445---Lab/blob/main/lab5/duplicate.js)
