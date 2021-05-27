@@ -6,4 +6,4 @@
 Prime number
 ![primeAsyc.js](https://github.com/gakalu/CS445---Lab/blob/main/lab6/primeA.js)
 duplecation
-![duplicationAsyc.js](https://github.com/gakalu/CS445---Lab/blob/main/lab5/duplicateB.js)
+![duplicationAsyc.js](https://github.com/gakalu/CS445---Lab/blob/main/lab6/duplicateB.js)
