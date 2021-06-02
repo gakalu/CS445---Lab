@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(12, 3, 3);
+    display:inline;
+    grid-template-columns:auto;
+    grid-gap: 30px;
+}
+
+.col {
+    align-content: center;
+    text-decoration-line:none;
+    height: 90px;
+    background-color: #278578;
+    width: 100%;
+}
+p.center{
+text-align: center;
+}
+#refeshBtn{
+    background-color: maroon;
+}
+#img1{
+background-size: unset;
+}
+#img2{  
+display: inline;  
+}
+#img3{
+display: inline;
+  
+}
