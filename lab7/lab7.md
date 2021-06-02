@@ -1,1 +1,1 @@
-![Employee](https://github.com/gakalu/CS445---Lab/blob/main/lab7/index.html)
+![Employee](https://gakalu.github.io/CS445---Lab/lab7/index.html)
