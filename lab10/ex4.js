@@ -1,5 +1,8 @@
 const feb=(num,memo)=>{
 memo={};
+    if (memo[num]) {
+        return memo[num]
+    }
 if(num<=1){
   return 1;
 }
